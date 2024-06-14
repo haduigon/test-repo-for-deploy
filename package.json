@@ -1,0 +1,75 @@
+{
+  "name": "fb_horo_chat_landing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@djthoms/pretty-checkbox": "^3.1.0",
+    "@stripe/react-stripe-js": "^2.4.0",
+    "@stripe/stripe-js": "^2.4.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/facebook-pixel": "^0.0.30",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.75",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "@types/react-select": "^5.0.1",
+    "axios": "^1.6.7",
+    "bulma": "^0.9.4",
+    "cities.json": "^1.1.33",
+    "classnames": "^2.5.1",
+    "country-state-city": "^3.2.1",
+    "detect-browser-language": "0.0.2",
+    "encode-utf8": "^2.0.0",
+    "i18next": "^23.11.3",
+    "i18next-browser-languagedetector": "^7.2.1",
+    "js-file-download": "^0.4.12",
+    "pretty-checkbox-react": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-facebook-pixel": "^1.0.4",
+    "react-ga4": "^2.1.0",
+    "react-i18next": "^9.0.10",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.21.3",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.8.0",
+    "sass": "^1.70.0",
+    "stripe": "^14.14.0",
+    "typescript": "^4.9.5",
+    "uuidv4": "^6.2.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
+    "@types/lodash.debounce": "^4.0.9",
+    "gh-pages": "^6.1.1"
+  }
+}
