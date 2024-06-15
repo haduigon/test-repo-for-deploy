@@ -72,7 +72,7 @@ export const FbChatLanding: React.FC = () => {
     returnObjects: true,
   });
 
-  console.log('it is not up to date');
+  console.log('it is not up to date nedd to change smthagain');
   
   useEffect(() => {
     params.delete("day");
