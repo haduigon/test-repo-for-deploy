@@ -41,7 +41,7 @@ Feel free to suggest any improvements.
 
 [![Axios](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
 
-[![Bulma](https://img.shields.io/badge/Axios-18.3.1-light-blue)](https://axios.com)
+[![Bulma](https://img.shields.io/badge/Axios-18.3.1-lightblue)](https://axios.com)
 
 [![pretty-checkbox-react](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
 
