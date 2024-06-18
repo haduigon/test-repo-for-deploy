@@ -37,7 +37,7 @@ Feel free to suggest any improvements.
 
 [![React-router-dom](https://img.shields.io/badge/React%20Router%20Dom-18.2.0-yellow)](https://reactrouter.com/en/main)
 
-[![React Context](https://img.shields.io/badge/React%20Context-black)](https://reactjs.org/docs/context.html)
+[![React Context](https://img.shields.io/badge/React%20Context-grey)](https://reactjs.org/docs/context.html)
 
 [![Axios](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
 
