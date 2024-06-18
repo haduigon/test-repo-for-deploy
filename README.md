@@ -35,7 +35,7 @@ Feel free to suggest any improvements.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-green)](https://www.typescriptlang.org/)
 
-[![React-router-dom](https://img.shields.io/badge/React%20Router%20Dom-18.2-0-yellow)](https://reactrouter.com/en/main)
+[![React-router-dom](https://img.shields.io/badge/React%20Router%20Dom-18.2.0-yellow)](https://reactrouter.com/en/main)
 
 [![React Context](https://img.shields.io/badge/React%20Context-blue)](https://reactjs.org/docs/context.html)
 
