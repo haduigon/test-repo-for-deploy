@@ -31,13 +31,13 @@ Feel free to suggest any improvements.
 
 # Technologies list:
 
-[![React](https://img.shields.io/badge/React-18.2-0-green)](https://react.dev/)
+[![React](https://img.shields.io/badge/React-18.2.0-green)](https://react.dev/)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-green)](https://www.typescriptlang.org/)
 
 [![React-router-dom](https://img.shields.io/badge/React%20Router%20Dom-18.2.0-yellow)](https://reactrouter.com/en/main)
 
-[![React Context](https://img.shields.io/badge/React%20Context-blue)](https://reactjs.org/docs/context.html)
+[![React Context](https://img.shields.io/badge/React%20Context-darkgrey)](https://reactjs.org/docs/context.html)
 
 [![Axios](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
 
