@@ -62,7 +62,7 @@ Feel free to suggest any improvements.
 [![js-file-download](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
 
 
-# React phone catalog features:
+# React FB chat landing features:
 
 FEATURES
 
