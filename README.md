@@ -43,28 +43,45 @@ Feel free to suggest any improvements.
 
 [![Bulma](https://img.shields.io/badge/Bulma-0.9.4-lightgreen)](https://bulma.io)
 
-[![pretty-checkbox-react](https://img.shields.io/badge/Pretty%20checkbox%20react-3.2.0-pink)](https://axios.com)
+[![pretty-checkbox-react](https://img.shields.io/badge/Pretty%20checkbox%20react-3.2.0-pink)](https://pretty-checkbox-react.netlify.app/)
 
-[![i18next](https://img.shields.io/badge/i18next-23.11.3-green)](https://axios.com)
+[![i18next](https://img.shields.io/badge/i18next-23.11.3-green)](https://www.i18next.com/)
 
-[![@stripe/react-stripe-js](https://img.shields.io/badge/React%20stripe%20js-2.4.0-purple)](https://axios.com)
+[![@stripe/react-stripe-js](https://img.shields.io/badge/React%20stripe%20js-2.4.0-purple)](https://docs.stripe.com/stripe-js/react)
 
-[![react-ga4](https://img.shields.io/badge/React%20GA4-2.1.0-orange)](https://axios.com)
+[![react-ga4](https://img.shields.io/badge/React%20GA4-2.1.0-orange)](https://www.npmjs.com/package/react-ga4)
 
-[![react-facebook-pixel](https://img.shields.io/badge/React%20Facebook%20Pixel-0.0.30-blue)](https://axios.com)
+[![react-facebook-pixel](https://img.shields.io/badge/React%20Facebook%20Pixel-0.0.30-blue)](https://www.npmjs.com/package/react-facebook-pixel)
 
-[![classnames](https://img.shields.io/badge/Classnames-2..1-lightgreen)](https://axios.com)
+[![classnames](https://img.shields.io/badge/Classnames-2..1-lightgreen)](https://www.npmjs.com/package/classnames)
 
-[![react-select](https://img.shields.io/badge/React%20Select-5.0.1-yellow)](https://axios.com)
+[![react-select](https://img.shields.io/badge/React%20Select-5.0.1-yellow)](https://react-select.com/home)
 
-[![react-icons](https://img.shields.io/badge/React%20Icons-5.0.1-green)](https://axios.com)
+[![react-icons](https://img.shields.io/badge/React%20Icons-5.0.1-green)](https://react-icons.github.io/react-icons/)
 
-[![js-file-download](https://img.shields.io/badge/Js%20file%20download-0.4.12-orange)](https://axios.com)
+[![js-file-download](https://img.shields.io/badge/Js%20file%20download-0.4.12-orange)](https://www.npmjs.com/package/js-file-download)
 
 
 # React FB chat landing features:
 
 FEATURES
+Fb chat landing has them next:
+
+- chat imitation, pay attention to green dot down the top avatar picture.
+  
+- a lot of libraries are used.
+  
+- elements are passed as a props. btw, can at be considered as the high order component? 👨‍🦲
+
+- all questions gather in one prompt and sending to openai api at the end
+
+- stripe payment implemented
+
+- you can download what you`ve got
+
+- i18next translation implemented, just add new lang text data and its identifier.
+
+- a liitle openai api is used in backend as a stripe as well.
 
 # _Usage as always is very simple:_
 
