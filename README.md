@@ -39,27 +39,27 @@ Feel free to suggest any improvements.
 
 [![React Context](https://img.shields.io/badge/React%20Context-grey)](https://reactjs.org/docs/context.html)
 
-[![Axios](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![Axios](https://img.shields.io/badge/Axios-1.6.7-orange)](https://axios.com)
 
 [![Bulma](https://img.shields.io/badge/Bulma-0.9.4-lightgreen)](https://bulma.io)
 
-[![pretty-checkbox-react](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![pretty-checkbox-react](https://img.shields.io/badge/Pretty checkbox react-3.2.0-orange)](https://axios.com)
 
-[![i18next](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![i18next](https://img.shields.io/badge/i18next-123.11.3-orange)](https://axios.com)
 
-[![@stripe/react-stripe-js](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![@stripe/react-stripe-js](https://img.shields.io/badge/React stripe js-2.4.0-orange)](https://axios.com)
 
-[![react-ga4](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![react-ga4](https://img.shields.io/badge/React GA4-2.1.0-orange)](https://axios.com)
 
-[![react-facebook-pixel](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![react-facebook-pixel](https://img.shields.io/badge/React Facebook Pixel-0.0.30-orange)](https://axios.com)
 
-[![classnames](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![classnames](https://img.shields.io/badge/Classnames-2..1-orange)](https://axios.com)
 
-[![react-select](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![react-select](https://img.shields.io/badge/React Select-5.0.1-orange)](https://axios.com)
 
-[![react-icons](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![react-icons](https://img.shields.io/badge/React select-5.0.1-orange)](https://axios.com)
 
-[![js-file-download](https://img.shields.io/badge/Axios-18.3.1-orange)](https://axios.com)
+[![js-file-download](https://img.shields.io/badge/Js file download-0.4.12-orange)](https://axios.com)
 
 
 # React FB chat landing features:
