@@ -43,21 +43,21 @@ Feel free to suggest any improvements.
 
 [![Bulma](https://img.shields.io/badge/Bulma-0.9.4-lightgreen)](https://bulma.io)
 
-[![pretty-checkbox-react](https://img.shields.io/badge/Pretty%20checkbox%20react-3.2.0-orange)](https://axios.com)
+[![pretty-checkbox-react](https://img.shields.io/badge/Pretty%20checkbox%20react-3.2.0-pink)](https://axios.com)
 
-[![i18next](https://img.shields.io/badge/i18next-123.11.3-orange)](https://axios.com)
+[![i18next](https://img.shields.io/badge/i18next-23.11.3-green)](https://axios.com)
 
-[![@stripe/react-stripe-js](https://img.shields.io/badge/React%20stripe%20js-2.4.0-orange)](https://axios.com)
+[![@stripe/react-stripe-js](https://img.shields.io/badge/React%20stripe%20js-2.4.0-purple)](https://axios.com)
 
 [![react-ga4](https://img.shields.io/badge/React%20GA4-2.1.0-orange)](https://axios.com)
 
-[![react-facebook-pixel](https://img.shields.io/badge/React%20Facebook%20Pixel-0.0.30-orange)](https://axios.com)
+[![react-facebook-pixel](https://img.shields.io/badge/React%20Facebook%20Pixel-0.0.30-blue)](https://axios.com)
 
-[![classnames](https://img.shields.io/badge/Classnames-2..1-orange)](https://axios.com)
+[![classnames](https://img.shields.io/badge/Classnames-2..1-lightgreen)](https://axios.com)
 
-[![react-select](https://img.shields.io/badge/React%20Select-5.0.1-orange)](https://axios.com)
+[![react-select](https://img.shields.io/badge/React%20Select-5.0.1-yellow)](https://axios.com)
 
-[![react-icons](https://img.shields.io/badge/React%20Icons-5.0.1-orange)](https://axios.com)
+[![react-icons](https://img.shields.io/badge/React%20Icons-5.0.1-green)](https://axios.com)
 
 [![js-file-download](https://img.shields.io/badge/Js%20file%20download-0.4.12-orange)](https://axios.com)
 
